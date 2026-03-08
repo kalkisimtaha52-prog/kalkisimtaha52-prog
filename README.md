@@ -1,13 +1,17 @@
 <div align="center">
 
-<h1 style="font-family: 'Segoe UI', sans-serif;">Hey, I'm Taha 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Taha+%F0%9F%91%8B;Developer+%7C+Designer;Always+building+something)](https://git.io/typing-svg)
 
-<p style="font-size: 16px;">
+<br>
+
+<p>
 I'm a high school student passionate about coding, design and technology.<br>
 I have experience in many different programs and I learn best by just doing things.
 </p>
 
 <br>
+
+---
 
 ## 🛠️ Technologies & Tools
 
