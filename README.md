@@ -64,6 +64,8 @@ I have experience in many different programs and I learn best by just doing thin
 
 <br>
 
+![Snake](https://raw.githubusercontent.com/kalkisimtaha52-prog/kalkisimtaha52-prog/main/github-user-contribution.svg)
+
 ---
 
 *"Run it first, understand it later."*
