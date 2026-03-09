@@ -56,11 +56,11 @@ I have experience in many different programs and I learn best by just doing thin
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalkisim-taha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kalkisim-taha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalkisim-taha&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalkisim-taha&layout=compact&theme=tokyonight&hide_border=true)
 
 <br>
 
