@@ -38,14 +38,14 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalkisim-taha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalkisim-taha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalkisim-taha&show_icons=true&theme=dark&hide_border=false&count_private=true&rank_icon=github&icon_color=FF8C00&title_color=FF8C00&border_color=FF8C00" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalkisim-taha&layout=compact&theme=dark&hide_border=false&langs_count=8&title_color=FF8C00&border_color=FF8C00" height="165"/>
 
 ---
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kalkisim-taha&theme=git-dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kalkisim-taha&theme=tokyonight&mode=weekly&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
