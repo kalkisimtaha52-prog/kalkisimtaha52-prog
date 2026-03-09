@@ -5,7 +5,7 @@
 <br>
 
 <p>
-I'm a high school student passionate about coding, design and technology.<br>
+I'm passionate about coding, design and technology.<br>
 I have experience in many different programs and I learn best by just doing things.
 </p>
 
@@ -35,6 +35,7 @@ I have experience in many different programs and I learn best by just doing thin
 | Project | Description |
 |:-------:|:-----------:|
 | [VidDrop](https://github.com/kalkisimtaha52-prog/viddrop) | YouTube video downloader that runs on your own computer. Supports 4K, no ads. |
+| [AimPro](https://github.com/kalkisim-taha/AimPro) | AI-powered daily planner. Plan your day, prioritize tasks, get coached by AI. |
 
 <br>
 
@@ -45,7 +46,6 @@ I have experience in many different programs and I learn best by just doing thin
 <br>
 
 🔭 &nbsp;Building my own projects &nbsp;|&nbsp; 🌱 &nbsp;Learning Python & web &nbsp;|&nbsp; 🤖 &nbsp;Exploring AI
-
 🎮 &nbsp;Getting into game development &nbsp;|&nbsp; 🎨 &nbsp;Working on 3D design with Blender
 
 <br>
@@ -56,11 +56,11 @@ I have experience in many different programs and I learn best by just doing thin
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalkisimtaha52-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalkisim-taha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalkisimtaha52-prog&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalkisim-taha&layout=compact&theme=tokyonight&hide_border=true)
 
 <br>
 
