@@ -49,10 +49,6 @@
 
 ---
 
-![Snake](https://raw.githubusercontent.com/kalkisimtaha52-prog/kalkisimtaha52-prog/main/github-user-contribution.svg)
-
----
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=kalkisim-taha&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS)
 
 *"Run it first, understand it later."*
